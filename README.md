@@ -1,1 +1,1 @@
-Simple ToDo list write in Java
+Simple ToDo list written in Java
